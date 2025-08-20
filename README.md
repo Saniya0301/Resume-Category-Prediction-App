@@ -31,7 +31,9 @@ source .venv/bin/activate   # On Mac/Linux
 
 ---
 ##📸 Screenshots
+
 <img width="865" height="467" alt="{E84F3950-5E7D-4E7C-9D41-4BC1797007BA}" src="https://github.com/user-attachments/assets/67857d13-2117-418d-af68-fbca986b2bca" />
+
 <img width="874" height="479" alt="{3421E58A-CEDF-41A9-A2F5-F14CCE7158E9}" src="https://github.com/user-attachments/assets/461e2917-255f-4271-8d5a-d86df02e1b0b" />
 
 ---
